@@ -74,7 +74,7 @@ The following metrics will be used to evaluate the success of the project:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/Mobile_App_Pitcher.git`
+1. Clone the repository: `git clone https://github.com/aurelius-in/Mobile_App_Pitcher.git`
 2. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
