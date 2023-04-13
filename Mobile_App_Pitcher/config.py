@@ -1,5 +1,10 @@
 import os
 
+# This config.py file defines the paths to the various directories and files in the project, 
+# as well as default parameters for the machine learning and natural language processing models.
+# These default parameters can be used by the model_training.py script to train the models, 
+# but can also be overridden with command line arguments or configuration files as needed.
+
 # define the path to the project's root directory
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
