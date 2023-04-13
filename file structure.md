@@ -1,3 +1,4 @@
+```
 Mobile_App_Pitcher
 ├── data
 │   ├── raw_data
@@ -29,7 +30,7 @@ Mobile_App_Pitcher
 ├── config.py
 ├── requirements.txt
 └── README.md
-
+```
 ### File structure:
 
 The data folder contains the raw data obtained from various sources, processed data, and machine learning models used by the software.
